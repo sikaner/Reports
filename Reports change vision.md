@@ -1,4 +1,3 @@
-```md
 # Change Vision and Case for Change
 
 ## Introduction
